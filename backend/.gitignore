@@ -1,0 +1,36 @@
+ 
+# Virtual environment folder
+eenv/
+elearn/
+venv/
+
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+
+# Django database (if using SQLite)
+db.sqlite3
+
+# Django migrations (optional, except the initial migration)
+migrations/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment variables file
+.env
+
+
+media/
